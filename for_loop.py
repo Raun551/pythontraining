@@ -1,4 +1,4 @@
 #for loop example
-n=5
+n=7
 for i in range(1,11):
     print(i,"*",n,"=",i*n)
